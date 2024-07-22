@@ -1,5 +1,7 @@
 ### Spatiotemporal Graph Learning for Multi-modal Livestreaming Product Retrieval
 
+<img width="1369" alt="image" src="https://github.com/user-attachments/assets/0849f33b-5baa-4273-821e-78ad667a35a9">
+
 
 # Training Datasets
 1. Prepare the Training Datasets
